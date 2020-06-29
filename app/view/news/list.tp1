@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Hacker News</title>
+  </head>
+  <body>
+    <ul>
+      {% for item in list %}
+        <li>
+           <a>{{item.name}}</a>
+           <span>{{item.passtime}}</span>
+           <p>{{item.text}}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

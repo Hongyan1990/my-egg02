@@ -1,0 +1,23 @@
+{
+  "name": "my-egg",
+  "version": "1.0.0",
+  "description": "#### Description egg的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/daxiong1990/my-egg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.26.1",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.14.1"
+  }
+}

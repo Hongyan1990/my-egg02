@@ -1,0 +1,48 @@
+2020-06-12 03:04:48,673 INFO 6420 [egg:logger] init all loggers with options: {"dir":"/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-12 03:04:48,723 INFO 6420 [egg-multipart] stream mode enable
+2020-06-12 03:04:48,853 INFO 6420 [egg-static] starting static serve /public/ -> /home/hongyan/Desktop/hongyan/my-egg/app/public
+2020-06-12 03:04:48,870 INFO 6420 [egg-security] use csrf middleware
+2020-06-12 03:04:48,877 INFO 6420 [egg-security] use methodnoallow middleware
+2020-06-12 03:04:48,878 INFO 6420 [egg-security] use noopen middleware
+2020-06-12 03:04:48,879 INFO 6420 [egg-security] use nosniff middleware
+2020-06-12 03:04:48,880 INFO 6420 [egg-security] use xssProtection middleware
+2020-06-12 03:04:48,881 INFO 6420 [egg-security] use xframe middleware
+2020-06-12 03:04:48,885 INFO 6420 [egg-security] use dta middleware
+2020-06-12 03:04:48,886 INFO 6420 [egg-security] compose 7 middlewares into one security middleware
+2020-06-12 03:04:48,907 INFO 6420 [egg:core] dump config after load, 15ms
+2020-06-12 03:04:48,961 INFO 6420 [egg-watcher:application] watcher start success
+2020-06-12 03:04:48,986 INFO 6420 [egg:core] dump config after ready, 14ms
+2020-06-12 03:06:42,426 INFO 6508 [egg:logger] init all loggers with options: {"dir":"/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-12 03:06:42,791 INFO 6508 [egg-multipart] stream mode enable
+2020-06-12 03:06:43,068 INFO 6508 [egg-static] starting static serve /public/ -> /home/hongyan/Desktop/hongyan/my-egg/app/public
+2020-06-12 03:06:43,117 INFO 6508 [egg-security] use csrf middleware
+2020-06-12 03:06:43,119 INFO 6508 [egg-security] use methodnoallow middleware
+2020-06-12 03:06:43,121 INFO 6508 [egg-security] use noopen middleware
+2020-06-12 03:06:43,135 INFO 6508 [egg-security] use nosniff middleware
+2020-06-12 03:06:43,143 INFO 6508 [egg-security] use xssProtection middleware
+2020-06-12 03:06:43,144 INFO 6508 [egg-security] use xframe middleware
+2020-06-12 03:06:43,148 INFO 6508 [egg-security] use dta middleware
+2020-06-12 03:06:43,148 INFO 6508 [egg-security] compose 7 middlewares into one security middleware
+2020-06-12 03:06:43,204 INFO 6508 [egg:core] dump config after load, 32ms
+2020-06-12 03:06:43,295 INFO 6508 [egg-watcher:application] watcher start success
+2020-06-12 03:06:43,313 INFO 6508 [egg:core] dump config after ready, 8ms
+2020-06-12 04:30:00,102 INFO 6508 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=/home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/tmp/egg-multipart-tmp/my-egg"
+2020-06-12 04:30:00,146 INFO 6508 [-/127.0.0.1/-/47ms SCHEDULE /__schedule?path=/home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-06-14 20:29:55,156 INFO 4320 [egg:logger] init all loggers with options: {"dir":"/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-14 20:29:55,274 INFO 4320 [egg-multipart] stream mode enable
+2020-06-14 20:29:55,969 INFO 4320 [egg-static] starting static serve /public/ -> /home/hongyan/Desktop/hongyan/my-egg/app/public
+2020-06-14 20:29:55,983 INFO 4320 [egg-security] use csrf middleware
+2020-06-14 20:29:55,985 INFO 4320 [egg-security] use methodnoallow middleware
+2020-06-14 20:29:55,987 INFO 4320 [egg-security] use noopen middleware
+2020-06-14 20:29:55,988 INFO 4320 [egg-security] use nosniff middleware
+2020-06-14 20:29:56,004 INFO 4320 [egg-security] use xssProtection middleware
+2020-06-14 20:29:56,006 INFO 4320 [egg-security] use xframe middleware
+2020-06-14 20:29:56,007 INFO 4320 [egg-security] use dta middleware
+2020-06-14 20:29:56,007 INFO 4320 [egg-security] compose 7 middlewares into one security middleware
+2020-06-14 20:29:56,026 INFO 4320 [egg:core] dump config after load, 12ms
+2020-06-14 20:29:56,061 INFO 4320 [egg-watcher:application] watcher start success
+2020-06-14 20:29:56,076 INFO 4320 [egg:core] dump config after ready, 10ms
+2020-06-14 20:30:28,718 INFO 4320 [egg-view-nunjucks] loading templates from ["/home/hongyan/Desktop/hongyan/my-egg/app/view"]
+2020-06-15 00:00:00,908 INFO 4320 [egg-logrotator] clean all log before 31 days
+2020-06-15 00:00:01,141 INFO 4320 [egg-logrotator] broadcast log-reload
+2020-06-15 00:00:01,208 INFO 4320 [egg-logrotator] rotate files success by DayRotator, files ["/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/common-error.log -> /home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/common-error.log.2020-06-14","/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/my-egg-web.log -> /home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/my-egg-web.log.2020-06-14","/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-web.log -> /home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-web.log.2020-06-14","/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-schedule.log -> /home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-schedule.log.2020-06-14","/home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-agent.log -> /home/hongyan/Desktop/hongyan/my-egg/logs/my-egg/egg-agent.log.2020-06-14"]

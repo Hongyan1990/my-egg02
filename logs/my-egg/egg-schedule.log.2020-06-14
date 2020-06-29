@@ -1,0 +1,24 @@
+2020-06-12 03:04:49,012 INFO 6409 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 5111004ms at 2020-06-12 04:30:00.016
+2020-06-12 03:04:49,013 INFO 6409 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 75310988ms at 2020-06-13 00:00:00.001
+2020-06-12 03:04:49,018 INFO 6409 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 75311987ms at 2020-06-13 00:00:01.005
+2020-06-12 03:04:48,720 INFO 6420 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-12 03:04:48,720 INFO 6420 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-12 03:04:48,720 INFO 6420 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-12 03:06:42,790 INFO 6508 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-12 03:06:42,790 INFO 6508 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-12 03:06:42,790 INFO 6508 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-12 04:30:00,073 INFO 6508 [Job#1591961400040315792557563991] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-06-12 04:30:00,146 INFO 6508 [Job#1591961400040315792557563991] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 47ms
+2020-06-12 04:30:00,091 INFO 6409 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86399941ms at 2020-06-13 04:30:00.026
+2020-06-14 20:29:55,273 INFO 4320 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-14 20:29:55,273 INFO 4320 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-14 20:29:55,273 INFO 4320 [egg-schedule]: register schedule /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-14 20:29:56,100 INFO 4309 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28803916ms at 2020-06-15 04:30:00.016
+2020-06-14 20:29:56,100 INFO 4309 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12603900ms at 2020-06-15 00:00:00.000
+2020-06-14 20:29:56,101 INFO 4309 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12604899ms at 2020-06-15 00:00:01.000
+2020-06-15 00:00:00,643 INFO 4309 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86399518ms at 2020-06-16 00:00:00.161
+2020-06-15 00:00:01,021 INFO 4309 [Timer] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399999ms at 2020-06-16 00:00:01.020
+2020-06-15 00:00:00,652 INFO 4320 [Job#1592204400365209886125395671] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-06-15 00:00:00,908 INFO 4320 [Job#1592204400365209886125395671] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 150ms
+2020-06-15 00:00:01,003 INFO 4320 [Job#1592204401000209891946713991] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-06-15 00:00:01,208 INFO 4320 [Job#1592204401000209891946713991] /home/hongyan/Desktop/hongyan/my-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 204ms

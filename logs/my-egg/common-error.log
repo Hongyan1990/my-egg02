@@ -1,0 +1,231 @@
+2020-06-16 00:28:35,889 ERROR 5862 [-/::1/-/5104ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5078,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5862
+hostname: ubuntu
+
+2020-06-16 00:31:29,609 ERROR 5862 [-/::1/-/5072ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5067,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5862
+hostname: ubuntu
+
+2020-06-16 00:40:45,598 ERROR 5862 [-/127.0.0.1/-/5054ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5034,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5862
+hostname: ubuntu
+
+2020-06-16 00:43:23,368 ERROR 6326 [-/127.0.0.1/-/5130ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5090,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 6326
+hostname: ubuntu
+
+2020-06-16 00:44:08,122 ERROR 6363 [-/127.0.0.1/-/5166ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5115,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 6363
+hostname: ubuntu
+
+2020-06-16 01:02:10,942 ERROR 6548 [-/127.0.0.1/-/5156ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5100,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 6548
+hostname: ubuntu
+
+2020-06-16 20:16:07,414 ERROR 3127 [-/127.0.0.1/-/5124ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5117,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 3127
+hostname: ubuntu
+
+2020-06-16 20:23:30,328 ERROR 3963 [-/127.0.0.1/-/8090ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 8000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/hongyan/Desktop/hongyan/my-egg/node_modules/urllib/lib/urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":8068,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 3963
+hostname: ubuntu
+
+2020-06-17 15:15:13,452 ERROR 5876 [-/127.0.0.1/-/20042ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 20000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (D:\workspace\my-egg\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":20033,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5876
+hostname: BF-202006112317
+
+2020-06-17 16:01:13,124 ERROR 3776 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3776
+hostname: BF-202006112317
+
+2020-06-17 16:05:49,869 ERROR 2700 [-/127.0.0.1/-/682ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:16:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 2700
+hostname: BF-202006112317
+
+2020-06-17 16:06:33,025 ERROR 2700 [-/127.0.0.1/-/476ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:16:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 2700
+hostname: BF-202006112317
+
+2020-06-17 16:07:04,087 ERROR 8140 [-/127.0.0.1/-/554ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:16:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 8140
+hostname: BF-202006112317
+
+2020-06-17 16:08:16,283 ERROR 10456 [-/127.0.0.1/-/440ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:16:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 10456
+hostname: BF-202006112317
+
+2020-06-17 16:09:25,915 ERROR 5648 [-/127.0.0.1/-/433ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:15:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5648
+hostname: BF-202006112317
+
+2020-06-17 16:10:56,308 ERROR 9136 [-/127.0.0.1/-/610ms GET /news] nodejs.TypeError: Cannot read property 'map' of undefined
+    at NewService.list (D:\workspace\my-egg\app\service\news.js:14:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 9136
+hostname: BF-202006112317
+
+2020-06-17 16:23:42,125 ERROR 2148 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://api.apiopen.top/getJoke -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (D:\workspace\my-egg\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/getJoke?type=text&page=1&count=5"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://api.apiopen.top/getJoke"],"timing":null,"remoteAddress":"47.100.122.205","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 2148
+hostname: BF-202006112317
+
